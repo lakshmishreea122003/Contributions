@@ -14,7 +14,8 @@ Issues
 Isssues
 - https://github.com/google/mediapipe/issues/4612
 
-## MindWave Repo - GSSoC23
+## GirlScript Summer of Code 2023 contributions
+### MindWave
 Merged PRs
 - https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/621
 - https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/614
