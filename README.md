@@ -14,7 +14,7 @@ Issues
 Isssues
 - https://github.com/google/mediapipe/issues/4612
 
-## MindWave Repo
+## MindWave Repo - GSSoC23
 Merged PRs
 - https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/621
 - https://github.com/The-Data-Alchemists-Manipal/MindWave/pull/614
